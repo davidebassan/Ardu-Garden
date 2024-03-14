@@ -7,7 +7,6 @@ This project implements a hydroponic garden system controlled via Arduino, manag
 - [Project Description](#project-description)
 - [Setup and Usage](#setup-and-usage)
 - [Printables](#printables)
-- [Electrical Schematics](#electrical-schematics)
 - [Connections](#connections)
 - [Known Issues](#known-issues)
 
